@@ -217,7 +217,7 @@ export default function FormPage() {
                             <div className="flex justify-center">
                                 <Button
                                     variant="outline"
-                                    className="mt-4"
+                                    className="mt-4 w-full bg-green-600 text-white"
                                     onClick={() => setFormSubmitted(false)}
                                 >
                                     Volver al formulario
