@@ -12,7 +12,7 @@ export default function FormPage() {
     const formRef = useRef()
     const [drawerOpen, setDrawerOpen] = useState(false)
     const [formSubmitted, setFormSubmitted] = useState(false)
-    const emailAddress = "tlaliware@gmail.com"
+    const emailAddress = "emprendimientojamexico@gmail.com"
 
     const handleSubmit = async (e) => {
         e.preventDefault()
