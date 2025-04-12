@@ -16,7 +16,7 @@ export default function () {
                     <div className="flex items-center">
                         <ul className="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
                             <li>
-                                <a href="#" className="text-gray-900 dark:text-white hover:underline" aria-current="page">Inicio</a>
+                                <a href="https://website-ec0be58a.sitacomm.com/" className="text-gray-900 dark:text-white hover:underline" aria-current="page">Inicio</a>
                             </li>
                             <li>
                                 <a href="/" className="text-gray-900 dark:text-white hover:underline">Compra acciones</a>
