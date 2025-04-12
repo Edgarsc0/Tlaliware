@@ -148,11 +148,11 @@ export default function FormPage() {
                                         </p>
 
                                         <div className="bg-white rounded-md p-2 flex items-center justify-between border border-amber-200">
-                                            <span className="font-medium text-amber-900 text-sm break-all">{emailAddress}</span>                                            
+                                            <span className="font-medium text-amber-900 text-sm break-all">{emailAddress}</span>
                                         </div>
 
                                         <p className="text-xs text-amber-600 mt-2">
-                                            Incluye tu nombre completo y fecha de transferencia en el asunto del correo.
+                                            Incluye tu nombre completo y coloca "Comprobante acción" en el asunto del correo.
                                         </p>
                                     </CardContent>
                                 </Card>
@@ -202,7 +202,7 @@ export default function FormPage() {
 
                                                 <div className="bg-white rounded-md p-2 flex items-center justify-between border border-amber-200">
                                                     <span className="font-medium text-amber-900 text-sm break-all">{emailAddress}</span>
-                                                                                                                   
+
                                                 </div>
 
                                                 <p className="text-xs text-amber-600 mt-2">
